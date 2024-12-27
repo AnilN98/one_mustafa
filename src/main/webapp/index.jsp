@@ -24,7 +24,7 @@
 	<h2 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h2>
 	<h3 style="color: orange; font-size: 40px;" align="center">THIS IS APP IS DEPLOYED USING TOMCAT</h3>
 	<h4 style="color: blue; font-size: 40px;" align="center">THIS IS SO EXICTING....HAHAHA.....!!</h4>
-	<a href="https://github.com/AnilN98/one_mustafa/blob/master/src/main/webapp/index.jsp" class="button">Click Me</a>
+	<a href="https://github.com/AnilN98/one_mustafa/blob/master/src/main/webapp/index.jsp" class="button" target="_blank">Click Me</a>
 	
 	
 	
